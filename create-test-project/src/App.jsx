@@ -5,7 +5,10 @@ import viteLogo from '/vite.svg'
 import Header from './components/Header';
 
 // Import Main
-import Mail from "./components.main";
+import Main from "./components.Main";
+
+// Import Footer
+import Footer from "./components.Footer"
 
 function App() {
 
